@@ -20,7 +20,7 @@
 }
 
 body {
-  background-color: var(--boton);
+  background-color: var(--background);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -43,7 +43,7 @@ body {
   }
 
 .container button, .back {
-    background-color: var(--background);
+    background-color: var(--boton);
     color: #fff;
     font-size: 12px;
     padding: 10px 45px;
