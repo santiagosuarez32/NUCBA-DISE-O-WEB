@@ -335,6 +335,9 @@ footer span {
 
 /* SECCION CONTACTO */
 
+.section-div-contacto {
+    padding: 0px;
+}
 
 .caja-contacto-responsive {
     display: flex;
@@ -342,6 +345,7 @@ footer span {
     align-items: center;
     gap: 60px;
     justify-items: center;
+    padding: 20px;
 }
 
 .primera-caja {
