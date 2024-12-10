@@ -354,7 +354,9 @@ footer span {
     border-radius: 10px;
 }
 
-.segunda-caja {
+
+
+.caja-form {
     background-color: var(--boton);
     padding: 20px 80px;
     align-items: center;
