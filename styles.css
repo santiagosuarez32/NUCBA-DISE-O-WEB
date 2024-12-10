@@ -391,7 +391,7 @@ footer span {
 }
 
 iframe {
-    width: 390px;
+   width: 100%;
     height: 300px;
     border-radius: 15px;
 }
