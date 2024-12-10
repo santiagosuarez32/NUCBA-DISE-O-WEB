@@ -339,7 +339,6 @@ footer span {
 
 
 
-
 .section-div-contacto {
     padding: 0px;
 }
@@ -365,7 +364,7 @@ footer span {
 
 .caja-form {
     background-color: var(--boton);
-    padding: 20px 50px;
+    /* padding: 20px 50px; */
     align-items: center;
     border-radius: 10px;
     list-style: none;
