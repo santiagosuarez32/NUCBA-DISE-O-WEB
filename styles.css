@@ -334,6 +334,10 @@ footer span {
 
 /* SECCION CONTACTO */
 
+.section-div-contacto {
+    display: none;
+}
+
 .caja-contacto-responsive {
     display: flex;
     flex-direction: column;
