@@ -244,7 +244,9 @@ footer span {
 
 /* SECCION MENU */
 
-
+.section-div-menu {
+    padding: 0px;
+}
 
 
 .productos-lista {
@@ -254,7 +256,7 @@ footer span {
     align-items: center;
     justify-content: center;
     border-radius: 15px;
-    padding: 5px 0px 5px 0px;
+    padding: 0px;
 }
 
 .product-bottom p {
@@ -268,7 +270,7 @@ footer span {
     border-radius: 10px;
     cursor: pointer;
     background-color: var(--card);
-    padding: 10px;
+    padding: 0px;
   
   }
 
@@ -279,7 +281,7 @@ footer span {
 .info-producto {
     display: flex;
     flex-direction: column;
-    padding: 15px;
+    padding: 5px;
     gap: 30px;
 }
 
@@ -316,7 +318,7 @@ footer span {
     align-content: center;
     justify-content: center;
     justify-items: center;
-    padding: 20px;
+    padding: 15px;
 }
 
 .productos-section {
