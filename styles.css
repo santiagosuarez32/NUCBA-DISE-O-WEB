@@ -450,25 +450,52 @@ footer {
 /* MEDIAQUERIES TABLES 768PX*/
 
 @media (min-width:768px) {
-    .caja-contacto-responsive {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        align-content: center;
-        justify-content: center;
-        justify-items: center;
+   
+    section {
+        padding: 150px;
+        gap: 120px;
     }
-  
 
+    .caja-form {
+        height: 420px;
+    }
 
- .caja-content{
-    background-color: red;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+ .caja {
     justify-content: center;
-    justify-items: center;
-    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: 1;
+    flex-wrap: wrap;
+ }
+
+ .caja-content {
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+ }
+
+ .segunda-caja {
+    width: 80%;
+    height: 340px;
+ }
+
+ .mapa {
+    width: 80%;
+ }
+
+
+ .primera-caja {
+    width: 60%;
+    height: 100%;
+ }
+
+ iframe {
+    height: 100%;
+ }
+
+ .productos-lista {
+    width: 400px;
+    height: 300px;
  }
 
 
