@@ -499,11 +499,6 @@ footer {
     height: 300px;
  }
 
-
-
- 
-
-  
 }
 
 
@@ -515,7 +510,80 @@ footer {
 
 @media (min-width:1200px) {
 
+   .section-div-info {
+    display: flex;
+    flex-direction: row;
+    padding: 150px;
+   }
+
+   .section-div-pedidos {
+    padding: 200px;
+   }
+
+   .primera-caja {
+    text-align: center;
+    align-content: center;
+   }
+
+   .info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 100px;
+   }
+
+   .section-div-contacto {
+    padding: 80px;
+   }
+   .caja-content {
+    gap: 30px;
+   }
+
+   .about {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    width: 100%;
+    padding: 80px;
   
+}
+
+
+
+   .pedidos-box {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    padding: 30px;
+}
+
+footer {
+    padding: 20px;
+}
+
+.info-card {
+    transition: all 0.6s ease;
+    cursor: pointer;
+    overflow-y: auto;
+}
+
+.info-card:hover {
+    transform: scale(1, 1);
+    background-color: var(--rosa);
+}
+
+.info-card::after {
+    width: 80%;
+}
+
+.caja-footer {
+    padding: 80px;
+}
+
+.footer-div {
+    padding: 100px;
+}
 }
 
 
