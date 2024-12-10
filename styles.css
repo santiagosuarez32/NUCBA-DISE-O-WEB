@@ -435,6 +435,51 @@ footer {
 /* ************************************************************* */
 
 
+/* MEDIAQUERIES TABLES 768PX*/
+
+@media (min-width:768px) {
+    .caja-contacto-responsive {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+        justify-items: center;
+    }
+  
+
+
+ .caja-content{
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    padding: 50px;
+ }
+
+
+
+ 
+
+  
+}
+
+
+/* ************** */
+
+
+
+/* MEDIAQUERIES PC 1200PX */
+
+@media (min-width:1200px) {
+
+  
+}
+
+
+/* ***************** */
 
 
 
