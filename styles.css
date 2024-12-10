@@ -341,6 +341,7 @@ footer span {
 
 
 .section-div-contacto {
+    display: flex;
     padding: 0px;
 }
 
