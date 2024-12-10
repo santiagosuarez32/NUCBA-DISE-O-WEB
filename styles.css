@@ -308,6 +308,8 @@ footer span {
     display: flex;
     flex-direction: column;
     gap: 60px;
+    align-content: center;
+    align-items: center;
  
 }
 
