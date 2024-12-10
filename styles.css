@@ -356,7 +356,7 @@ footer span {
 
 .segunda-caja {
     background-color: var(--boton);
-    padding: 20px;
+    padding: 20px 80px;
     align-items: center;
     border-radius: 10px;
     list-style: none;
@@ -391,13 +391,13 @@ iframe {
 
 /* FOOTER */
 
-footer {
-    display: none;
-}
+
 
 
 footer {
     margin-bottom: 200px;
+    padding: 0px;
+    display: none;
 }
 
 /* footer h2 {
@@ -409,7 +409,7 @@ footer {
 .footer-div {
     display: flex;
     flex-direction: column;
-    padding: 10px;
+    padding: 20px;
     justify-items: center;
     justify-content: center;
     background-color: var(--boton);
@@ -418,7 +418,7 @@ footer {
 
 .caja-footer {
   
-    padding: 10px;
+    padding: 20px;
     display: flex;
     flex-direction: column;
     border-radius: 15px;
