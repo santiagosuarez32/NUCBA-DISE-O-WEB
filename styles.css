@@ -340,6 +340,7 @@ footer span {
 
 .section-div-contacto {
     padding: 0px;
+    display: none;
 }
 
 .caja-contacto-responsive {
