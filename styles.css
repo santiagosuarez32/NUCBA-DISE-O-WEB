@@ -337,6 +337,15 @@ footer span {
 
 /* SECCION CONTACTO */
 
+.caja-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+}
+
 
 
 .section-div-contacto {
