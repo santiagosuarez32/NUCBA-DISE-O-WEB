@@ -377,6 +377,7 @@ footer span {
     gap: 10px;
     display: flex;
     flex-direction: column;
+    padding: 20px;
 }
 
 .enviar {
@@ -388,6 +389,8 @@ footer span {
     padding: 5px;
     margin-top: 10px;
 }
+
+
 
 .segunda-caja input {
     background-color: var(--text);
