@@ -302,7 +302,6 @@ footer span {
     justify-content: center;
     justify-items: center;
     align-content: center;
-    padding: 10px;
 }
 
 .caja {
@@ -311,7 +310,7 @@ footer span {
     gap: 60px;
     align-content: center;
     align-items: center;
- 
+    padding: 30px; 
 }
 
 .burguer-caja-menu {
@@ -322,7 +321,7 @@ footer span {
     align-content: center;
     justify-content: center;
     justify-items: center;
-    padding: 40px;
+    padding: 15px;
 }
 
 .productos-section {
