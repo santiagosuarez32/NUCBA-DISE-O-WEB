@@ -302,6 +302,7 @@ footer span {
     justify-content: center;
     justify-items: center;
     align-content: center;
+    padding: 10px;
 }
 
 .caja {
@@ -321,7 +322,7 @@ footer span {
     align-content: center;
     justify-content: center;
     justify-items: center;
-    padding: 15px;
+    padding: 40px;
 }
 
 .productos-section {
