@@ -31,8 +31,6 @@ body {
     gap: 200px;
 }
 
-
-
 .header img {
     width: 50px;
 }
@@ -63,7 +61,7 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* padding: 80px 0px; */
+    padding: 80px 0px;
     justify-content: center;
     justify-items: center;
     align-content: center;
@@ -339,14 +337,6 @@ footer span {
 
 /* SECCION CONTACTO */
 
-.caja-content {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    justify-content: center;
-    justify-items: center;
-    align-content: center;
-}
 
 
 
