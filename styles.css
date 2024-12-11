@@ -82,6 +82,13 @@ main {
     position: fixed;
 }
 
+
+
+#h2-texto{
+    color: #fff;
+    font-weight: 600;
+}
+
 .bars-menu{
     display: flex;
     flex-direction: column;
