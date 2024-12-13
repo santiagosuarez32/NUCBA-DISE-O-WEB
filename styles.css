@@ -519,6 +519,15 @@ footer {
 
 @media (min-width:1200px) {
 
+    .info h2 {
+        font-size: 30px;
+    }
+
+    .section-div-info p {
+        font-size: 20px;
+    }
+
+
    .section-div-info {
     display: flex;
     flex-direction: row;
