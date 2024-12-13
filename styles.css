@@ -527,11 +527,18 @@ footer {
         font-size: 20px;
     }
 
+    section img {
+        width: 400px;
+    }
+
+    .header img {
+        width: 100px;
+    }
 
    .section-div-info {
     display: flex;
     flex-direction: row;
-    padding: 150px;
+    padding: 80px;
    }
 
    .section-div-pedidos {
